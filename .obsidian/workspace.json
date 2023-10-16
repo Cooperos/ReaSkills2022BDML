@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6c0d79a911a9f942",
+        "id": "52019aaac85a0c0b",
         "type": "tabs",
         "children": [
           {
-            "id": "81a62e64aad3b659",
+            "id": "b4570f48ae14fde2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks/m4.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasks/m4.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tasks/m4.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tasks/m4.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "81a62e64aad3b659",
+  "active": "b4570f48ae14fde2",
   "lastOpenFiles": [
+    "tasks/m4.md",
     "tasks/m3.md",
     "tasks/m4.md~",
-    "tasks/m4.md",
     "tasks/m1.md",
     "tasks/m2.md",
     "tasks/m3.md~",
